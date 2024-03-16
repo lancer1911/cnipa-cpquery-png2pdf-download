@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         cpquery 图片下载并生成PDF
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/lancer1911/cnipa-cpquery-png2pdf-download/
 // @version      1.1 （2024-03-09）
 // @description  下载cpquery.cponline.cnipa.gov.cn上的多PNG格式的文档并合并为PDF下载
 // @author       Lancer1911
